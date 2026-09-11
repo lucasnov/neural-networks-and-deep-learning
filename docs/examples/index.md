@@ -67,7 +67,7 @@ Uma URL absoluta na nav vira um item que abre em outra aba:
 
 ``` { .yaml .copy title="mkdocs.yml" }
 nav:
-  - Abrir no Colab ↗: https://colab.research.google.com/github/usuario/ann-dl/blob/main/docs/examples/notebook/data-exercise-1.ipynb
+  - Abrir no Colab ↗: https://colab.research.google.com/github/lucasnov/neural-networks-and-deep-learning/blob/main/docs/examples/notebook/data-exercise-1.ipynb
 ```
 
 Duas formas de montar o endereço:
@@ -100,10 +100,10 @@ Duas formas de montar o endereço:
 Para colocar o badge dentro de uma página, em vez de no menu:
 
 ``` { .markdown .copy }
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/ann-dl/blob/main/docs/examples/notebook/data-exercise-1.ipynb){:target='_blank'}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasnov/neural-networks-and-deep-learning/blob/main/docs/examples/notebook/data-exercise-1.ipynb){:target='_blank'}
 ```
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/ann-dl/blob/main/docs/examples/notebook/data-exercise-1.ipynb){:target='_blank'}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasnov/neural-networks-and-deep-learning/blob/main/docs/examples/notebook/data-exercise-1.ipynb){:target='_blank'}
 
 ## Recursos disponíveis no template
 
